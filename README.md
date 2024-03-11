@@ -13,3 +13,10 @@ Los datos provienen de la NASA Prediction Of Worldwide Energy Resources, especí
 - **Modelo de Suavizado Exponencial:** Identificación y representación del modelo más adecuado.
 - **Análisis de Autocorrelación:** Decisión y ajuste del modelo adecuado.
 - **Predicciones y Comparaciones:** Cálculo de predicciones y comparación de métodos.
+
+## 🤝 Contribuciones ç
+¡Contribuciones y sugerencias son bienvenidas! Si encuentras formas de mejorar el análisis o agregar nuevas perspectivas, no dudes en realizar un pull request.
+
+Este análisis contribuye a la comprensión de la variabilidad histórica de la radiación UVA y su impacto en la salud pública.
+
+¡Esperamos que encuentres útil este repositorio para explorar y comprender la serie temporal de radiación UVA!
